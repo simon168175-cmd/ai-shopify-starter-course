@@ -1,0 +1,4 @@
+interface:
+  display_name: "独立站建站教练"
+  short_description: "帮助零基础创业者从定位和商品事实推进到可验证的独立站上线准备"
+  default_prompt: "请用 $independent-store-launch 检查我的建站阶段，给出有证据、交付物和验收条件的下一步。"
